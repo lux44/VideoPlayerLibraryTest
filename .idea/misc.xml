@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.49322916666666666" />
+        <entry key="../../.gradle/caches/transforms-3/79a0b1e835a3d12de8c24142e7de3c1a/transformed/exoplayer-ui-2.18.1/res/drawable-anydpi-v21/exo_ic_play_circle_filled.xml" value="0.303" />
+        <entry key="../../.gradle/caches/transforms-3/79a0b1e835a3d12de8c24142e7de3c1a/transformed/exoplayer-ui-2.18.1/res/drawable-anydpi-v21/exo_icon_fastforward.xml" value="0.303" />
+        <entry key="app/src/main/res/drawable/box.xml" value="0.303" />
+        <entry key="app/src/main/res/drawable/seekbar_brightness_bar.xml" value="0.303" />
+        <entry key="app/src/main/res/drawable/seekbar_brightness_base.xml" value="0.303" />
+        <entry key="app/src/main/res/drawable/seekbar_sound_base.xml" value="0.303" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.43645833333333334" />
+        <entry key="app/src/main/res/layout/exo_playback_control_view.xml" value="0.45416666666666666" />
+        <entry key="app/src/main/res/layout/fragment_exo.xml" value="0.45416666666666666" />
+        <entry key="app/src/main/res/layout/fragment_mk_player.xml" value="0.45625" />
+        <entry key="app/src/main/res/layout/fragment_video_player.xml" value="0.45625" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.45416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="FindBugsConfigurable">
+    <option name="make" value="true" />
+    <option name="effort" value="default" />
+    <option name="priority" value="Medium" />
+    <option name="excludeFilter" value="" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
