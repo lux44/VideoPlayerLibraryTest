@@ -4,6 +4,6 @@
         android:id="@+id/menu_exo"
         android:title="exo"/>
     <item
-        android:id="@+id/menu_vv"
-        android:title="vv"/>
+        android:id="@+id/menu_test"
+        android:title="test"/>
 </menu>

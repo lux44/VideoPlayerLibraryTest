@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.menu_exo -> {
                     tran.show(fragments[0])
                 }
-                R.id.menu_vv -> {
+                R.id.menu_test -> {
                     if (!supportFragmentManager.fragments.contains(fragments[1])) tran.add(R.id.container, fragments[1])
                     tran.show(fragments[1])
                 }
